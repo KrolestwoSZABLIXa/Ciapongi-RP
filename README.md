@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://ciapongi.szablix.pl/server-icon.png" width="128" height="128" alt="Ciapongi Logo">
+  <img src="https://ciapongi.szablix.pl/instalacja/server-icon.png" width="128" height="128" alt="Ciapongi Logo">
 </p>
 
-# <p align="center">Ciapongi Modpack Repository</p>
+# <p align="center">Ciapongi RP</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-1.20.1-blue?style=flat-square&logo=minecraft" alt="Minecraft Version">
@@ -12,7 +12,7 @@
 
 ---
 
-To repozytorium służy jako centralny serwer plików dla paczki modyfikacji serwera **Ciapongi**. 
+To repozytorium służy jako centralny serwer plików dla paczki modyfikacji serwera **Ciapongi RP**. 
 
 ### 🚂 Co tu się znajduje?
 *   **`/mods`**: Zbiór wszystkich modyfikacji (`.jar`) wymaganych do gry.
