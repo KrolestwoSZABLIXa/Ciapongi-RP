@@ -1,0 +1,434 @@
+{
+  "files": [
+    {
+      "path": "mods/createdeco-2.1.1-1.20.1-fabric.jar",
+      "hash": "7a72ee9c8da0b478256263c1e75ad4541b902cffb3c314bdb91850ead6fcfd4a",
+      "size": 3492044
+    },
+    {
+      "path": "mods/watermedia-2.1.37.jar",
+      "hash": "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389",
+      "size": 37046674
+    },
+    {
+      "path": "mods/entityculling-fabric-1.10.2-mc1.20.1.jar",
+      "hash": "fe64e5dc8869056ca133c16dee66fb3d6f4590954a822cca81572b365a39b145",
+      "size": 1589955
+    },
+    {
+      "path": "mods/mishanguc-1.6.1-1.20.1.jar",
+      "hash": "a4ffc686a776e517af8db24bc78e7ce977c608ab6e87fe1409b0c22af6093dda",
+      "size": 6235460
+    },
+    {
+      "path": "mods/rechiseled-1.2.4-fabric-mc1.20.1.jar",
+      "hash": "36d30fe1c2e747d3c2358df952144b2fbe38283d8db0dfdb16dddfb0e08e9ec4",
+      "size": 11919992
+    },
+    {
+      "path": "mods/iris-1.7.6+mc1.20.1.jar",
+      "hash": "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
+      "size": 2726899
+    },
+    {
+      "path": "mods/mcw-mcwwindows-2.4.2-mc1.20.1fabric.jar",
+      "hash": "1cc53835b3a669aa15ec0845665401bf469999d7b307b4c8c22028a69d64f66e",
+      "size": 1273261
+    },
+    {
+      "path": "mods/Slideshow-fabric-1.20.1-1.0.3-Enhancement-1.jar",
+      "hash": "774ecae8c258a86c7dc69b290945a8a01a5d8f3315a1caa7e2d8e4c4e299985c",
+      "size": 2925864
+    },
+    {
+      "path": "mods/mcwbiomesoplenty-fabric-1.20.1-1.5.jar",
+      "hash": "4675291dcd5973e2d4ec06bfc366f6e50a93322a609fb2fe5fc6e7ee820e68fc",
+      "size": 8233396
+    },
+    {
+      "path": "mods/chat_heads-0.15.1-fabric-1.20.jar",
+      "hash": "7b05c44105caf3246c8cb9ad6c8fdc1b4edc068ac77754da02451abfd2f865cc",
+      "size": 84192
+    },
+    {
+      "path": "mods/GlitchCore-fabric-1.20.1-0.0.1.1.jar",
+      "hash": "fb7e7d4235cabf8395478bc42aef6bbfdbbef8951ddf1f70f73719e0b24c99cc",
+      "size": 322107
+    },
+    {
+      "path": "mods/MSD-fabric-1.20.1-4.0.4-1.4.4.jar",
+      "hash": "a5ce47171a6c9da15286a3b63676f70f6f97fd036fb375ea4b9c7668e4c548f6",
+      "size": 7996891
+    },
+    {
+      "path": "mods/TerraBlender-fabric-1.20.1-3.0.1.10.jar",
+      "hash": "d02d9aa2ccf091264b0fcef07644128b823b3421a02bfc40391a01aa1ccd0a24",
+      "size": 322358
+    },
+    {
+      "path": "mods/handcrafted-fabric-1.20.1-3.0.6.jar",
+      "hash": "aa82c95a7394c5fd7278c8b89e3554bb24dae0c3e6e73282a7f19d8bb6bf4a71",
+      "size": 7106384
+    },
+    {
+      "path": "mods/mcw-doors-1.1.5-mc1.20.1fabric.jar",
+      "hash": "cb7d88f7fbf2172207aff0ec9af11684ea7b7062723af1b71b2c59ba09e7ca75",
+      "size": 1226772
+    },
+    {
+      "path": "mods/addonslib-fabric-1.20.1-1.9.jar",
+      "hash": "afbb6283b7fbc0329a35698317ee337fd03b92b92f35249835d7eaf4826edf81",
+      "size": 115879
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-fabric.jar",
+      "hash": "844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa",
+      "size": 1172214
+    },
+    {
+      "path": "mods/moreculling-1.20.1-0.24.5.jar",
+      "hash": "23b2e5f25f0f250e3c359c3f1478289430ab99347e04176e8ea51a247cda3210",
+      "size": 274506
+    },
+    {
+      "path": "mods/CreativeCore_FABRIC_v2.12.36_mc1.20.1.jar",
+      "hash": "298430abe7b895363df6121d9a9e9ba35f38946747f0fbbc078a80b73a4c686f",
+      "size": 1197162
+    },
+    {
+      "path": "mods/mcw-mcwpaths-1.1.1-mc1.20.1fabric.jar",
+      "hash": "5a462e3aa88a0fa21bf1be3ffece57928316128a8e29ccbb8db3d7c5276deb07",
+      "size": 769476
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+      "hash": "fe76c8cf001878109adbdd2f4ef877b76ddfdefdca91ff9b90353c2e8af8022c",
+      "size": 207990
+    },
+    {
+      "path": "mods/MTR-fabric-4.0.4+1.20.1.jar",
+      "hash": "28d17b412a7a3bd76773b87d6c831050e2d6e3a2b191ef8559ee877c2e93de2b",
+      "size": 85411895
+    },
+    {
+      "path": "mods/waterframes-FABRIC-mc1.20.1-v2.1.22.jar",
+      "hash": "7d8cff807bc53eaa6f4af2dc6c565d28a81663818c3dc566fd7c3a445b7b0962",
+      "size": 261974
+    },
+    {
+      "path": "mods/create-fabric-6.0.8.1+build.1744-mc1.20.1.jar",
+      "hash": "a613603fb08d967c5a4138d1adb7374c4a347b91e489fe21579a4cff4f40105a",
+      "size": 32189889
+    },
+    {
+      "path": "mods/worldedit-mod-7.2.15.jar",
+      "hash": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
+      "size": 5825402
+    },
+    {
+      "path": "mods/voicechat-fabric-1.20.1-2.6.17.jar",
+      "hash": "659a85a7835bcec529a188d5bb0416cfc452a37419692cab43a5c13cb845620f",
+      "size": 5262944
+    },
+    {
+      "path": "mods/mcw-furniture-3.4.1-mc1.20.1fabric.jar",
+      "hash": "b0fb123b9fcc5fc6a4d6f432bbcd0689da2484fcc6c86372171f46638f7fc732",
+      "size": 2102784
+    },
+    {
+      "path": "mods/mcw-bridges-3.1.2-mc1.20.1fabric.jar",
+      "hash": "7c6c48a1bb5c8dc9c00e5b4ca95a27c759e39d99ce4f3cb858c281645e40a1a5",
+      "size": 672903
+    },
+    {
+      "path": "mods/interiors-1.20.1-fabric-0.6.0.jar",
+      "hash": "39bfd88ada3e309f07cebae097744446181f6afb596c807d7e8863f658e1ab57",
+      "size": 507098
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
+      "hash": "c35713ee1da70fde6bf0e9ed26f8e2baf0814e60eb993cd12acb940e57f4fd2f",
+      "size": 7813444
+    },
+    {
+      "path": "mods/createframed-1.7.3+1.20.1.jar",
+      "hash": "aa0b5f9a7b9d045aa1c1df06d2dc294add8e58ad3b0aaac25a14d28e22579065",
+      "size": 1207400
+    },
+    {
+      "path": "mods/mcw-mcwfences-1.2.1-mc1.20.1fabric.jar",
+      "hash": "0d9e4b03246de9364b85adfce6fee3354a31f822aec1bca2c8306ebbe09a89c8",
+      "size": 659511
+    },
+    {
+      "path": "mods/MTR-London-Underground-Addon-fabric-2.2.4+1.20.1.jar",
+      "hash": "13e536151f87700241ea82b9462f13b8715ddad590c8d03bb724403fa41e5f74",
+      "size": 63838895
+    },
+    {
+      "path": "mods/sound-physics-remastered-fabric-1.20.1-1.5.1.jar",
+      "hash": "275467bef6e56aab50b0c66ed42b2984160d36c65edb1b986e3c7c81d37e9253",
+      "size": 205569
+    },
+    {
+      "path": "mods/JCM-fabric-2.2.0-beta.4+1.20.1.jar",
+      "hash": "009aac767c537f4bf22cb9423fa201bd1daf0714e618a150b8212de145b542ab",
+      "size": 24832350
+    },
+    {
+      "path": "mods/ImmediatelyFast-Fabric-1.5.4+1.20.4.jar",
+      "hash": "cbb4ca2f6fda0c0b7e4bec16f34bbff7661d989a443029f40bbf5393a76e53b4",
+      "size": 354883
+    },
+    {
+      "path": "mods/dynamic-fps-3.11.4+minecraft-1.20.0-fabric.jar",
+      "hash": "d143dcde4680fc9bd706b535728b04ff973e099bd5477f87ffa399eef76619ab",
+      "size": 223261
+    },
+    {
+      "path": "mods/porting_lib-2.3.15+1.20.1.jar",
+      "hash": "53a01c675171927d50d55f454fb296210b33666b089bb96996e8bfb25044cfc3",
+      "size": 3333501
+    },
+    {
+      "path": "mods/sodium-fabric-0.5.13+mc1.20.1.jar",
+      "hash": "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22",
+      "size": 971552
+    },
+    {
+      "path": "mods/mcw-holidays-1.1.2-mc1.20.1fabric.jar",
+      "hash": "6550644fb00215d70456be4ad6e6a2192b246f39c944ac921c6968baf8296097",
+      "size": 1006067
+    },
+    {
+      "path": "mods/rechiseledcreate-1.1.0-fabric-mc1.20.1.jar",
+      "hash": "b7636c7936401262c196e7f43269d695218a3d63b058731af8a3e9ca69522efa",
+      "size": 1004841
+    },
+    {
+      "path": "mods/Pehkui-3.8.3+1.14.4-1.21.jar",
+      "hash": "3129e6fd47062007c815eebd1bd6739a8ecceacf5de2f74b22cce0b75fada75b",
+      "size": 555041
+    },
+    {
+      "path": "mods/modmenu-7.2.2.jar",
+      "hash": "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a",
+      "size": 721366
+    },
+    {
+      "path": "mods/FakenameFabric-1.2.0.jar",
+      "hash": "c2502cbff1285cc45b9b0ee7fe8ca0fc5c61402c5ecc1c991aaa75ba5a800822",
+      "size": 99393
+    },
+    {
+      "path": "mods/mcw-roofs-2.3.2-mc1.20.1fabric.jar",
+      "hash": "efdd2df129d71bb35aa123c46811bf568b833887af32d72d21540176c6255a41",
+      "size": 1796110
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.21-fabric-mc1.20.1.jar",
+      "hash": "5129a9927b8eac4a77d9b2fda4193be5e3e0f6028d79f7a7cf03885a62800817",
+      "size": 602733
+    },
+    {
+      "path": "mods/create-deco-additions-1.3.jar",
+      "hash": "89ede84a33f2fa252a8bb4726acf8a3da811b74620d04cf7f427f0884888097e",
+      "size": 404047
+    },
+    {
+      "path": "mods/MTRFRA-fabric-1.1.0+1.20.1.jar",
+      "hash": "a84495b243233bea98c7e23f4e89049dd64d840dcb386932dc11df3f6e421275",
+      "size": 69214066
+    },
+    {
+      "path": "mods/watermedia_youtube_plugin-2.1.2.jar",
+      "hash": "95c2841103b4d1e0c222f29b49d9500c0d5306772aa18c6eb11925be6ff7507e",
+      "size": 3830072
+    },
+    {
+      "path": "mods/fabric-api-0.92.9+1.20.1.jar",
+      "hash": "4056979ccaa1012354dfff14f39fdb085aefb3f1e0224ff45c3af41e4ffed5fd",
+      "size": 2111565
+    },
+    {
+      "path": "mods/mcw-lights-1.1.5-mc1.20.1fabric.jar",
+      "hash": "3b9a152fdb94c79f7fdfe2502f514ad9d289c66340d412a5081dfa8bb3f8d3cf",
+      "size": 516313
+    },
+    {
+      "path": "mods/fusion-1.2.12-fabric-mc1.20.1.jar",
+      "hash": "cee7755d3a37dc8838c15ac420c3c745a437ba0713e7c4309139adf7f05a34af",
+      "size": 515916
+    },
+    {
+      "path": "mods/MAGIC-1.2.0-1.20.1.jar",
+      "hash": "6a2bf5d88de2edd3c15f41c9b4730a2708366a963bfdbdac67036889d3adf181",
+      "size": 3508136
+    },
+    {
+      "path": "mods/fullbright-3.1.0+1.20.1.jar",
+      "hash": "2caa672784aa6cbd24e6b8fe3e8b0a643bae5ba7423e614da3158c234f6b0f87",
+      "size": 2660894
+    },
+    {
+      "path": "mods/BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar",
+      "hash": "0382a9e1334cb736c4f0d86cf0d002106d6a98453a709950ebbf0e939831ea72",
+      "size": 22317968
+    },
+    {
+      "path": "mods/resourcefullib-fabric-1.20.1-2.1.29.jar",
+      "hash": "2543d76f4f440d4401dccf7675f836381260919f0ac884e2696ae67e600adeeb",
+      "size": 431646
+    },
+    {
+      "path": "mods/indium-1.0.36+mc1.20.1.jar",
+      "hash": "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
+      "size": 105382
+    },
+    {
+      "path": "mods/mcw-mcwstairs-1.0.2-mc1.20.1fabric.jar",
+      "hash": "ec8c1529f746cb46a55bd3c5a4974da6c8c720deabd45620ebc014e5b3c7d99e",
+      "size": 523788
+    },
+    {
+      "path": "mods/realtime-1.0.3-1.20-1.21.1.jar",
+      "hash": "d4e65606ac1bc7e9dedd476ff08fb7e96d958ede60f002946a503d86ecf7f319",
+      "size": 11172
+    },
+    {
+      "path": "mods/xaerominimap-fabric-1.20.1-25.3.12.jar",
+      "hash": "e76276745007a2648dbe7616dc685802cc8c0126fc03eff3ae79d86534b1fe7a",
+      "size": 2171370
+    },
+    {
+      "path": "mods/xaeroworldmap-fabric-1.20.1-1.40.16.jar",
+      "hash": "1272928dca90c2bfa209f7a3e80aedd742e2438ab0b6a769b29ac8010bedffd9",
+      "size": 1410559
+    },
+    {
+      "path": "resourcepacks/RNET Stadler Flirt 3.zip",
+      "hash": "b66b7bb2a3d28be245f371c27ab32f4bc3fa69390817187720ffdabf7475e9f1",
+      "size": 2636120
+    },
+    {
+      "path": "resourcepacks/Zhongtong Retexturing Kit V1.0.0.zip",
+      "hash": "f90ed5af0cb9c450fce3fc4ab1cc7d1d3cf730893225ca99b07376165b574a8e",
+      "size": 11946326
+    },
+    {
+      "path": "resourcepacks/MTR_srteuropean_continental_base_4.0_251004.zip",
+      "hash": "5f8ddef8fa1fa1378f577078892fa9acb3f5e428e14aac76fe4fb4c89d44f180",
+      "size": 21852265
+    },
+    {
+      "path": "resourcepacks/SNCF_PIDS.zip",
+      "hash": "6abf29596b9e634fb13fe41b8ba50e09fd0ebd1ff7dc3c649a8bfd4ec1842ae4",
+      "size": 5257966
+    },
+    {
+      "path": "resourcepacks/NL Deco.zip",
+      "hash": "0ce922daabe82253061906dde251a3624bb9143eb399c89b628b0e686938d1a8",
+      "size": 510090
+    },
+    {
+      "path": "resourcepacks/MTR-Stadler_Flirt_3-\u0141KA-1.0.zip",
+      "hash": "e5960610af4201b4675525f2ed1d5c606086901ba65f21f793ca01835c67d7b3",
+      "size": 2740223
+    },
+    {
+      "path": "resourcepacks/class_345_overground_mtr4.zip",
+      "hash": "30b2d09dabdb1e472fe3d095c82ada6249a4074ce6f436856c68baef680b8b68",
+      "size": 537624
+    },
+    {
+      "path": "resourcepacks/TRTJJLine_Ver1.zip",
+      "hash": "89ae7fcf337fb309254e8f2c1197e2eeee5244e8e8b503c81f4d2211c0233f6d",
+      "size": 15989304
+    },
+    {
+      "path": "resourcepacks/Tramway infrastructure pack.zip",
+      "hash": "ce63197e231306d6d0ee3b17a025f92c1397cc2398efe942ee95977e31929c4f",
+      "size": 15296852
+    },
+    {
+      "path": "resourcepacks/World_PIDS-Pack-1100.zip",
+      "hash": "bdd6215a1a069e823fd0e9b8617eb1adfe76eab150f512b7211d31370d78e969",
+      "size": 671865
+    },
+    {
+      "path": "resourcepacks/EuroTram - Metro do Porto.zip",
+      "hash": "8ffd6edd3bdf9317875a8f8dc42c45f41399244fff6278d06cbe2570f53aa444",
+      "size": 2022928
+    },
+    {
+      "path": "resourcepacks/DEWON-ETR470-1.0-MTR4.zip",
+      "hash": "ce0b68e08cb2a80a03a994ec7d8dd27cf7f81d7fc27c82b6754341f928059575",
+      "size": 2075553
+    },
+    {
+      "path": "resourcepacks/NS & SKPL DM'90.zip",
+      "hash": "6a5b08b90fc3b871085ccf0be782e7a321aecd2cd96e5b9bc1744263e27c7485",
+      "size": 9333940
+    },
+    {
+      "path": "resourcepacks/MTR_srteuropean_continental_western_4.0_251004.zip",
+      "hash": "d6db2d6add34fbcceb2687c8600be4962ce30ba38653744754fb876ccbf6eb1c",
+      "size": 5803305
+    },
+    {
+      "path": "resourcepacks/SIP-PKM-v2.1.zip",
+      "hash": "cdff0a2b9a267a62ac8701a75a36b6a5eab765dc552ee57740f48aca8528ea80",
+      "size": 11422062
+    },
+    {
+      "path": "resourcepacks/EuroTram - Strasbourg.zip",
+      "hash": "45458b8a38e2150a79d6a96499f67fb6df90dbc59dfa6ea473d7589fb59843c6",
+      "size": 3223676
+    },
+    {
+      "path": "resourcepacks/RegioJet-S700-v1.0.zip",
+      "hash": "edbb29dbf27a26028f20866cf3b89546977fe464b86355f6954d5b5e1ee8fd76",
+      "size": 626121
+    },
+    {
+      "path": "resourcepacks/MTR_WestmidlandsTrains_srt_mtr4_251226.zip",
+      "hash": "a9ea9fd4a1284c3f816ae8cd14e0e90d0a959e832e295506f35e05bb2b03f096",
+      "size": 16339873
+    },
+    {
+      "path": "resourcepacks/Zhongtong Base Pack.zip",
+      "hash": "ab51f22712add9c37ea4cf9de7801ae299ebd91b755d448d0e3a12b05487edbb",
+      "size": 21932785
+    },
+    {
+      "path": "resourcepacks/Snapcab.zip",
+      "hash": "d09bc2e022202ef7fdc86604738ba29cdd857e64bdf534058f7a4bae3ed161b9",
+      "size": 1628058
+    },
+    {
+      "path": "resourcepacks/MTR4_NS_trains_251006_hotfix2.zip",
+      "hash": "4ef7bc91cc13f132f4b9bed9a0159aa7f7465423dc41dec4677a6b226a271f15",
+      "size": 20590099
+    },
+    {
+      "path": "resourcepacks/windowlesslift.zip",
+      "hash": "79a0cf5187c28c9a83db948dfb39b82fe7ae3d5f06a535d9d4d43dbb93747eb8",
+      "size": 24199
+    },
+    {
+      "path": "resourcepacks/Zhongtong N18 - SMM - 1.0.1.zip",
+      "hash": "570e467d2f7882a76615e4e63386c4ffc4df1e8e97b254ad77d02f935ff5f565",
+      "size": 15284964
+    },
+    {
+      "path": "resourcepacks/MTR_srteuropean_continental_switzerland_4.0_251006.zip",
+      "hash": "6f169d4dfefa1263a164bc0399d2737a698e28804f0bed4661eded838d1f8306",
+      "size": 10397102
+    },
+    {
+      "path": "resourcepacks/alfa_pendular_mtr4.zip",
+      "hash": "eefeb6ebb03ab04e3db962efe00980a7f1ae89bb62ef9bd9d7233978ff0bf9a1",
+      "size": 1572705
+    }
+  ]
+}
